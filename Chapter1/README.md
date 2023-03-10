@@ -1,2 +1,0 @@
-# GolangNote
-Notes daily golang.
